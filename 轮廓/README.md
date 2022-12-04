@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🙋‍♀️ Introduction
+## 🍿 Introduction
 Henan University is a world-class university under construction. We are a non-governmental organization of the Computer Department of Henan University.
 
 ## 👩‍💻 Purpose
