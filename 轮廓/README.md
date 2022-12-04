@@ -9,8 +9,12 @@ Our goal in establishing this organization is to:
 - Strengthening the Information Exchange of the Computer Department of Henan University
 - Make up for the lack of courses
 
+## 🌈 Contribution guidelines
+Our origin warehouse is copied from Peking University, Shanghai Jiaotong University and other schools, and we will gradually replace relevant old content over time. We welcome the contributions of all.
 
-
+## 📫 Contact us on Social Media
+✉️ [Public-Email: henu-cs@googlegroups.com](mailto:henu-cs@googlegroups.com)
+This is a public mailing list created by the Google team, which is mainly used to provide a public communication mailing list for the computer department organization of Henan University on GitHub. In addition to the required members who can view the mail, they have organization mailboxes. People on the network can view and send emails on the channel, and pay attention to harmful information.
 
 <!--
 
