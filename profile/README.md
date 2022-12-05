@@ -17,8 +17,8 @@ Our origin warehouse is copied from Peking University, Shanghai Jiaotong Univers
 This is a public mailing list created by the Google team, which is mainly used to provide a public communication mailing list for the computer department organization of Henan University on GitHub. In addition to the required members who can view the mail, they have organization mailboxes. People on the network can view and send emails on the channel, and pay attention to harmful information.
 
 ## 👨‍🎓 Friendly link
-- https://github.com/csmsapp：Application organization for Master's and PhD degree in computer science
-- https://github.com/HENU515Lab：515 Laboratory, Henan University
+- https://github.com/csmsapp Application organization for Master's and PhD degree in computer science
+- https://github.com/HENU515Lab 515 Laboratory, Henan University
 <!--
 
 **Here are some ideas to get you started:**
