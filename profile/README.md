@@ -3,7 +3,7 @@
 ## 🍿 Introduction
 Henan University is a world-class university under construction. We are a non-governmental organization of the Computer Department of Henan University.
 
-
+我们的生存飞跃手册:  https://henu-cs.github.io/SurvivalHandbook
 
 ## 👩‍💻 Purpose
 Our goal in establishing this organization is to:
