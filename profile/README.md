@@ -3,6 +3,8 @@
 ## 🍿 Introduction
 Henan University is a world-class university under construction. We are a non-governmental organization of the Computer Department of Henan University.
 
+
+
 ## 👩‍💻 Purpose
 Our goal in establishing this organization is to:
 - Strengthen mutual assistance among alumni
@@ -19,6 +21,7 @@ This is a public mailing list created by the Google team, which is mainly used t
 ## 👨‍🎓 Friendly link
 - https://github.com/opencsapp Application organization for Master's and PhD degree in computer science
 - https://github.com/HENU515Lab 515 Laboratory, Henan University
+- https://cs-survive-henu.github.io/  Another student's developed page.
 
 <!--
 
